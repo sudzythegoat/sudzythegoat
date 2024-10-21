@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudzythegoat)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudzythegoat)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on webscrapung and logging source code
+- 🌱 I’m currently learning C#
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love python
